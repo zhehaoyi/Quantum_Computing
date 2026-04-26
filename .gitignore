@@ -20,6 +20,7 @@
 *.bcf
 *.synctex.gz
 *-blx.bib
+*.tex
 
 ## ---------- Python (if used for plots) ----------
 __pycache__/
@@ -38,4 +39,4 @@ Thumbs.db
 # *.pdf
 
 # If you want to ignore specific figure backups
-# figure/*.ba
+figure/
