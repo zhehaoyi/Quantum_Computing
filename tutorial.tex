@@ -4,6 +4,8 @@
 % \usepackage[scaled]{helvet}
 \usepackage[sfdefault]{inter}
 \usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{ctex}
 \usepackage{geometry}
 \geometry{left=2.2cm, right=2.2cm, top=2.5cm, bottom=2.5cm}
 \usepackage{xcolor}
@@ -30,6 +32,20 @@
 \definecolor{SBURed}{HTML}{990000} 
 \definecolor{SoftGray}{HTML}{F4F4F4}
 \definecolor{DeepGray}{HTML}{333333}
+
+\usepackage{fontawesome5}
+
+\newtcolorbox{referencebox}[1][]{title={\textcolor{white}{\faBook\ References}},
+  colframe=RefBrown,
+  colback=RefBeige,
+  coltitle=black,
+  fonttitle=\bfseries,
+  arc=4pt,
+  drop shadow,
+  boxrule=2pt,
+  breakable,
+  left=10pt,right=10pt,top=8pt,bottom=8pt,
+}
 
 
 \hypersetup{
@@ -136,7 +152,7 @@
 
 % --- 文档元数据 ---
 \title{Quantum Computing: A Brief Introduction}
-\author{Zhehao Yi \\ \textit{PhD Student, Dept. of Electrical Engineering}}
+\author{Zhehao Yi \\ \textit{PhD Student, Dept. of Electrical Engineering, Stony Brook University}}
 \date{March 15, 2026}
 
 % --- 正文开始 ---
@@ -164,6 +180,19 @@ mechanics or advanced mathematics.” Don't worry! All you really need is some b
 
 If you've read this far, it means you're curious about quantum computing, and that's the only thing you truly need. So thank you for joining! Now, Warriors, grab your armor and sword, your laptop and a piece of paper, and get ready to step into a whole new
 world.
+
+The references for this document are as follows:
+\begin{referencebox}[Reference]
+  \begin{itemize}
+    \item \textit{Nielsen, M. A., \& Chuang, I. L. 2010. Quantum Computation and Quantum Information: 10th Anniversary Edition. Cambridge: Cambridge University Press.}
+    \item \textit{Cohen-Tannoudji, C., Diu, B. and Laloe, F., 1986. Quantum mechanics, volume 1. Quantum Mechanics, John Wiley \& Sons.}
+    \item \textit{Hajdušek, M. and Van Meter, R., 2023. Quantum communications. arXiv preprint arXiv:2311.02367.}
+    \item \textit{姚 珩. 2018,「量子力學」, 滄海書局, 1-491頁。}
+    \item \textit{TensorCircuit: \href{https://tensorcircuit.readthedocs.io/en/latest/}{https://tensorcircuit.readthedocs.io/en/latest/}}
+    \item \textit{TorchQuantum: \href{https://hanruiwanghw.wixsite.com/torchquantum}{https://hanruiwanghw.wixsite.com/torchquantum}}
+    \item \textit{PyTorch: \href{https://pytorch.org/}{https://pytorch.org/}}
+  \end{itemize}
+\end{referencebox}
 
 Welcome to Quantum Computing. Let's make this journey fun!
 
