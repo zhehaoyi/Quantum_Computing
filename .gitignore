@@ -1,0 +1,41 @@
+## ---------- LaTeX ----------
+*.aux
+*.fdb_latexmk
+*.fls
+*.gz
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.bbl
+*.blg
+*.brf
+*.ind
+*.idx
+*.ilg
+*.inx
+*.run.xml
+*.bcf
+*.synctex.gz
+*-blx.bib
+
+## ---------- Python (if used for plots) ----------
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+## ---------- OS specific ----------
+.DS_Store
+Thumbs.db
+
+## ---------- Project Specific ----------
+# If you want to track your final PDF, comment out the line below
+# *.pdf
+
+# If you want to ignore specific figure backups
+# figure/*.ba
