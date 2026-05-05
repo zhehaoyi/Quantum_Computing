@@ -14,7 +14,7 @@ Please See the [LICENSE](LICENSE) file for details.
 
 ---
 ## 🧑‍💻 Visitors
-![Visitors](https://api.visitorbadge.io/api/visitors?path=zhehaoyi/Quantum_Computing&label=访客数&countColor=%2326313f)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=zhehaoyi/Quantum_Computing&label=Number&countColor=%2326313f)
 
 ---
 
