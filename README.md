@@ -16,7 +16,7 @@ Please See the [LICENSE](LICENSE) file for details.
 ## 🧑‍💻 Visitors
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=zhehaoyi/Quantum_Computing&label=Number&countColor=%2326313f)
 
-[![访问趋势图](https://u8views.com/api/v1/github/repos/zhehaoyi/Quantum_Computing/views/day-week-month-total-count.svg)](https://u8views.com/github/zhehaoyi)
+![每日访问走势](https://hits.seeyoufarm.com/api/count/graph/daily/badge.svg?url=https://github.com/zhehaoyi/Quantum_Computing)
 
 ---
 
