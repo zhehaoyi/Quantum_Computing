@@ -13,5 +13,9 @@ This project is licensed under the **All Rights Reserved**.
 Please See the [LICENSE](LICENSE) file for details.  
 
 ---
+## 🧑‍💻 Visitors
+![Visitors](https://api.visitorbadge.io/api/visitors?path=zhehaoyi/Quantum_Computing&label=访客数&countColor=%2326313f)
+
+---
 
 **Zhehao Yi**  
