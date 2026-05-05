@@ -17,7 +17,7 @@ Please See the [LICENSE](LICENSE) file for details.
 ## 🧑‍💻 Visitors
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=zhehaoyi/Quantum_Computing&label=Number&countColor=%2326313f)
 
-![Tutorial Downloads](https://img.shields.io/github/downloads/zhehaoyi/Quantum_Computing/latest/tutorial.pdf?label=Tutorial%20Download&color=blue&logo=pdf)
+![Total Downloads](https://img.shields.io/github/downloads/zhehaoyi/Quantum_Computing/total?label=Total%20Downloads&color=green)
 
 ---
 
